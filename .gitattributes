@@ -1,0 +1,14 @@
+# Normalize line endings
+* text=auto
+
+# Treat Jupyter Notebook files as text for merge
+*.ipynb merge=jupyter
+
+# Binary files (data files)
+*.parquet binary
+*.csv binary
+*.json binary
+
+# Python scripts (optional for cross-OS compatibility)
+*.py text eol=lf
+
