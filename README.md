@@ -1,5 +1,7 @@
 # Home_Sales
 
+![forSale](https://github.com/user-attachments/assets/b20f1260-9d77-4ad3-81a5-a081a28ad210)
+
 # Big Data Analysis of Home Sales Using Apache Spark
 
 **Overview**
